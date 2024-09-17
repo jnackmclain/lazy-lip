@@ -1,5 +1,7 @@
 # Lazy-Lip
 
+![image](image/image.png)
+
 ## An easy way to generate lipsync for Encore style pad vocal charts for use in Rock Band Games.
 
 Imagine the scenario, you just charted a nice custom song for use in Encore, a Fortnite Festival inspired rhythmn game.
